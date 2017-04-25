@@ -190,6 +190,12 @@ footer {
     background-color: green;
     margin-bottom: 5px;
 }
+.copy{
+  padding-top: 10px;
+}
+.term{
+  padding-top: 10px;
+}
 /* styles for social buttons in footer section */
 .social{
     padding-top: 20px;
